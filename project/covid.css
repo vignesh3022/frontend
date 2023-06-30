@@ -1,0 +1,29 @@
+/* styles.css */
+
+body {
+    background-image: url('https://img.freepik.com/premium-vector/cute-little-kid-boy-fight-against-corona-virus_97632-2495.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: #ff5500;
+  }
+  
+  header .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 50px 0;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  footer {
+    color: #fff;
+  }
